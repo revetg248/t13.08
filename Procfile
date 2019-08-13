@@ -1,1 +1,1 @@
-web: python main.py
+bot: python maun.py $PORT
